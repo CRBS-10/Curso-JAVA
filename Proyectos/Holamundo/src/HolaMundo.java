@@ -4,6 +4,7 @@ public class HolaMundo {
     public static void main(String[] args) {
         //static es una palabra reservada
         //parametros de entrada "input"
+
         System.out.println(
                 "Hola Mundo desde Java, este year nos hara grande");
         //out es un atributo estatico, del tipo println, println:imprimir linea
