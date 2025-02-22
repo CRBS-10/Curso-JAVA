@@ -18,7 +18,7 @@ public class SistemaDeEntradaTerminal {
             numeroDecimal = scanner.nextInt();// Integer.parseInt(numeroStr);
             // como se espera que sea un numero aqui lo convierte a decimal el texto
 
-        }catch (InputMismatchException e){// aquai podemos colocar Solo Exception para incluir todas esas Excepciones
+        }catch (InputMismatchException e){// aqui podemos colocar Solo Exception para incluir todas esas Excepciones
             System.out.println("El numero entero no es valido");
             main(args);//
             System.exit(0);
