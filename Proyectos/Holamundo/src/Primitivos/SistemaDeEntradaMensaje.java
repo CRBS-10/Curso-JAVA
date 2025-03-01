@@ -1,3 +1,5 @@
+package Primitivos;
+
 import javax.swing.*;
 
 public class SistemaDeEntradaMensaje {

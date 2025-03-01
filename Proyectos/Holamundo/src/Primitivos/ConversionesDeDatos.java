@@ -1,4 +1,4 @@
-import javax.swing.*;
+package Primitivos;
 
 public class ConversionesDeDatos {
 

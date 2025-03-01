@@ -1,3 +1,5 @@
+package Primitivos;
+
 public class CaracteresBooleanos {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Primitivos;
+
 public class PrimitivosNumericosFlotantes {
     
     static float varFlotante;// variable de la clase

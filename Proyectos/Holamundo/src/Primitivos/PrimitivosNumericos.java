@@ -1,3 +1,5 @@
+package Primitivos;
+
 public class PrimitivosNumericos {
 
     public static void main(String[] args) {

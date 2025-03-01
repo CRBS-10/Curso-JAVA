@@ -1,3 +1,5 @@
+package Primitivos;
+
 public class ReglasParaDefinirVariables {
     public static void main(String[] args) {
         // para usar una variable se tiene que definir

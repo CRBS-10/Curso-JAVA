@@ -1,3 +1,5 @@
+package Primitivos;
+
 public class HolaMundo {
     //las llaves son el contenido de codigo, delimitan all
     // void es vacio, pero eso indica el tipo de retorno
