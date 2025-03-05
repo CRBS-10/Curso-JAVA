@@ -69,10 +69,5 @@ public class EjemploStringMetodos {
         System.out.println("    trabalengua    ".trim() );
 
 
-
-
-
-
-
     }
 }
