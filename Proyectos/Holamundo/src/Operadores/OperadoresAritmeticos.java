@@ -65,9 +65,5 @@ public class OperadoresAritmeticos {
         }else {
             JOptionPane.showMessageDialog(null, "El numero es impar: " + numero);
         }
-
-
-
-
     }
 }
